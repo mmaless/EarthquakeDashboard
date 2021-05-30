@@ -1,7 +1,7 @@
 # EarthquakeDashboard
 
 📈 A dashboard created using React to view earthquake data 
-- This project is still under development
+- 🚧 This project is still under development 🚧
 
 ## Demo
 - https://eqd.herokuapp.com/
