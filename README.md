@@ -10,3 +10,6 @@
 
 ## API
 The API is developed using Python, it requires MySQL database and can be found here [EarthquakeAPI](https://github.com/mhmdess/EarthquakeAPI) 
+
+## Template
+[MDB Admin Dashboard Template](https://mdbootstrap.com/freebies/admin/)
