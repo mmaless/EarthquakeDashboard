@@ -2,7 +2,7 @@
   "name": "EarthquakeDashboard",
   "version": "1.0.0",
   "description": "Earthquakes Monitoring Dashboard",
-  "author": "Mohammad Al Ess <https://github.com/mhmdess>",
+  "author": "https://github.com/mmaless",
   "license": "MIT",
   "dependencies": {
     "google-map-react": "^1.0.6",
