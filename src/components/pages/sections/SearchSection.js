@@ -47,7 +47,7 @@ async function getData(location, startTime, endTime, min) {
 }
 
 const SearchSection = ({ setOverview, setEvents, setCount, setMapCenter }) => {
-  const [location, setLocation] = useState('Greece');
+  const [location, setLocation] = useState('California');
   const [startTime, setStartTime] = useState(moment().subtract(1, 'month'));
   const [endTime, setEndTime] = useState(moment());
   const [minimum, setMinimum] = useState(2);
