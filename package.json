@@ -7,7 +7,7 @@
   "dependencies": {
     "google-map-react": "^1.0.6",
     "google-maps-react": "^2.0.6",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "mdbreact": "^4.9.0",
     "react": "^16.7.0",
     "react-datetime": "^3.0.4",
