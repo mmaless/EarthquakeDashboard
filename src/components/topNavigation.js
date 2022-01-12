@@ -43,7 +43,7 @@ class TopNavigation extends Component {
               <a
                 className='border border-light rounded mr-1 nav-link Ripple-parent'
                 rel='noopener noreferrer'
-                href='https://github.com/mhmdess'
+                href='https://github.com/mmaless'
                 target='_blank'
               >
                 <MDBIcon fab icon='github' className='mr-2' />
