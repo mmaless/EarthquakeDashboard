@@ -19,3 +19,4 @@ yarn-error.log*
 debug.log
 src/components/config.json
 build/
+package-lock.json

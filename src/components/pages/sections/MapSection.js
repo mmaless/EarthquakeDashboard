@@ -57,10 +57,14 @@ const Marker = ({ event }) => {
 const MapSection = ({ mapCenter, events }) => {
   const location = { lat: mapCenter.lat, lng: mapCenter.lng };
   const onChildMouseEnterCallback = (key) => {
-    document.getElementById(key).style.display = 'block';
+    if (document.getElementById(key)) {
+      document.getElementById(key).style.display = 'block';
+    }
   };
   const onChildMouseLeaveCallback = (key) => {
-    document.getElementById(key).style.display = 'none';
+    if (document.getElementById(key)) {
+      document.getElementById(key).style.display = 'none';
+    }
   };
 
   return (
